@@ -43,6 +43,15 @@ This repository hosts both English and French versions of the report **“Impact
 
 ---
 
+
+### 🇬🇧 English Report
+- **Part 1**: Media myths vs actual AI usage  
+- **Part 2**: What is an LLM? How does it work?  
+- **Part 3**: Performance is shaped by usage, not just investment  
+
+**Final Hypothesis**:  
+> LLMs don’t understand. But well-used, they may approximate knowledge—via collaborative use.
+
 ## 📎 Annexes
 
 - [🇬🇧 Full English Report PDF](./annexes/Report_Impacts_User_LLM_EN.pdf)  
